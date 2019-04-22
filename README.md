@@ -1,4 +1,4 @@
-# drag and drop
+# Drag and drop
 
 drag and drop app made with vanilla javascript
 
